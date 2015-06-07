@@ -1,3 +1,3 @@
 # puar
 
-![readme](/puar.jpg?raw=true "readme")
+![readme](/puar.png?raw=true "readme")
